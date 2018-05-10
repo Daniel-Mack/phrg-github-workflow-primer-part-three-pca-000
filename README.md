@@ -99,7 +99,7 @@ Using the instructions above, or the instructions from a previous lesson, update
 * In the project's `index.html`, add a paragraph element below each students image with a class of "favorite-website" and the text "Favorite website:"
 * Acquire every class member's favorite website in Connect
 * Inside each of the paragraph elements, after the text, add an anchor tag that references each member's favorite website
-* Be sure to add the name of the website between the anchor tags so you can see it in the browser
+* Be sure to add the name of the website between the anchor tags so you can see it in the browser.
 
 If you haven't yet, open up your index.html in the browser and refresh between each change. Verify each link opens correctly.
 
