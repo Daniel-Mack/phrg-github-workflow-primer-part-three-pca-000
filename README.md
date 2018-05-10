@@ -8,7 +8,7 @@ Before you start, acquire your designated project repo from the course instructo
 
 # Links and Style
 
-## Objectives
+## Objectives 
 
 * Learn more about `git pull`, `git branch` and `git checkout`
 * Learn about adding an `upstream` git remote to a fork
